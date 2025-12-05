@@ -23,6 +23,7 @@ Others:
 
 - KMK Firmware
 - Roboterarm.stl
+- Claw from: https://cults3d.com/de/modell-3d/gadget/robot-gripper-9g-micro-servo-for-ar2-or-ar3-robot
   
 
 Schematic            |  PCB         |   Model
